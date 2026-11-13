@@ -110,6 +110,11 @@ The camera defaults (start position, turn speed, pitch limit, move speed, field 
 
 Edit `main.cpp`. Objects are built like this:
 
+
+# AI Use
+
+This README was written by Claude Sonnet 5.5 by Anthropic
+
 ```cpp
 // Ball(position, mass, radius, color)
 Ball ball(Vector3{ 0.0f, 10.0f, 0.0f }, 1.0f, 0.1f, RED);
