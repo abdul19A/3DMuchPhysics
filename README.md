@@ -1,5 +1,7 @@
 # Much Physics
 
+<img width="1007" height="807" alt="image" src="https://github.com/user-attachments/assets/35f9081d-02da-4743-b083-0691390a73c1" />
+
 A small 3D physics sandbox written in C++ with [raylib](https://www.raylib.com/). Balls, springs, and a bouncy floor, all simulated from scratch with a hand-rolled integrator.
 
 ## Features
